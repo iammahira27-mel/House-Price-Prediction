@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This mini project predicts house sale prices using the Kaggle **House Prices: Advanced Regression Techniques** dataset. It walks through the basic machine learning pipeline: loading data, exploring important patterns, preparing features, training regression models, and comparing their performance.
+This project predicts house sale prices using the Kaggle **House Prices: Advanced Regression Techniques** dataset. It walks through the basic machine learning pipeline: loading data, exploring important patterns, preparing features, training regression models, and comparing their performance.
 
 ## What This Project Does
 
@@ -17,8 +17,7 @@ This mini project predicts house sale prices using the Kaggle **House Prices: Ad
 ## Dataset
 
 The project uses the Kaggle House Prices dataset:
-
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+https://www.kaggle.com/datasets/rishantenis/house-prices-advanced-regression
 
 If running locally, download `train.csv` from Kaggle and place it in the same folder as the notebook.
 
